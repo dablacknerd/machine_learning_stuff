@@ -1,2 +1,3 @@
 # machine_learning_stuff
-python files on machine learning stuff i have learned or worked on
+iPython scripts for machine learning techniques i am learning.
+The data sets were found in the UCI Machine Learning Repository
